@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def lookup(obj):
 # Get the list of all attributes and methods of the object
 all_attrs = dir(obj)
