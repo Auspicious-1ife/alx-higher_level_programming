@@ -1,1 +1,1 @@
-# 0x0F. Python - Object-relational map
+# 0x0F. Python - Object-relational mapping project 
