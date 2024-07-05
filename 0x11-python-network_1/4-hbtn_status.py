@@ -1,4 +1,4 @@
-#!/usr/bin/python3i
+#!/usr/bin/python3
 """
 This script fetches https://alx-intranet.hbtn.io/status
 using the requests package
