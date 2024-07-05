@@ -16,6 +16,7 @@ def fetch_status(url):
     print("\t- content: {}".format(body))
     print("\t- utf8 content: {}".format(decoded_body))
 
-    if __name__ == "__main__":
-        url = 'https://alx-intranet.hbtn.io/status'
+
+if __name__ == "__main__":
+    url = 'https://alx-intranet.hbtn.io/status'
     fetch_status(url)
