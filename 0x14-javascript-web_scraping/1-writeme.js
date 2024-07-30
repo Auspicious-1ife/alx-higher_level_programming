@@ -12,7 +12,7 @@ if (!filePath || !stringToWrite) {
   process.exit(1);
 }
 
-// Writes the string to the file in utf-8 encoding
+// Writes the string to the file in utf-8 encoding format
 fs.writeFile(filePath, stringToWrite, 'utf-8', (err) => {
   if (err) {
     // Prints the error object if an error occurred during writing
