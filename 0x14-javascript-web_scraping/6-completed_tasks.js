@@ -30,5 +30,5 @@ request.get(apiUrl, (error, response, body) => {
   });
 
   // Print the completed tasks count for each user ID
-  console.log(completedTasksCount);  
+  console.log(completedTasksCount);
 });
