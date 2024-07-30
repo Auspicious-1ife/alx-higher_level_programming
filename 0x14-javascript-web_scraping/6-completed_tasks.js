@@ -30,7 +30,5 @@ request.get(apiUrl, (error, response, body) => {
   });
 
   // Print the completed tasks count for each user ID
-  Object.keys(completedTasksCount).forEach(userId => {
-    console.log(`User ${userId} has ${completedTasksCount[userId]} completed tasks`);
-  });
+  console.log(completedTasksCount);  
 });
