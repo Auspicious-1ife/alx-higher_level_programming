@@ -1,0 +1,1 @@
+This project involves learning and implementing web scraping techniques using JavaScript. You will explore how to make HTTP requests, parse HTML, and extract data from web pages. Web scraping is a powerful tool for collecting data from websites automatically.
